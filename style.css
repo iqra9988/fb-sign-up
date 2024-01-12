@@ -27,8 +27,8 @@ label{
     left: 0.3cm;
 }
 #a:hover{
-    background-color: rgb(15,147,203);
-    color: yellow;
+    background-color: rgb(21, 5, 115);
+    color: rgb(38, 102, 199);
 
 }
 p{
@@ -142,6 +142,7 @@ h5{
     font-weight: lighter;
     font-size: 10px;
     color: black;
+    margin-top: 60px;
 }
 a:hover{
     background-color: yellow;
